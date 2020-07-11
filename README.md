@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working for a fintech startup called [Fundingpartner](http://fundingpartner.no/)
+🔭 I’m currently working for a fintech startup
 <!--
 **maqnus/maqnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
