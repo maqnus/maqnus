@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working for a fintech startup
+My name is Magnus
+🔭 I'm currently working for a fintech startup ✨ [FundingPartner](http://fundingpartner.no/) ✨ at the [StartupLab](https://startuplab.no/) in Oslo, Norway.
+
+I started to doing traditional graphi design work in 2008, making logos, design guidelines and printed media for companies, events, musicians and all in between.
+My focus gradually moved towards digital media, and by 2013 I did mostly user centered digital work, and by 2015 I did frontend development work for both large state owned and private companies.
+
+
 <!--
 **maqnus/maqnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
