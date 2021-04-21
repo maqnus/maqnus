@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Magnus
-🔭 I'm currently working for a fintech startup ✨ [FundingPartner](http://fundingpartner.no/) ✨ at the [StartupLab](https://startuplab.no/) in Oslo, Norway.
+🔭 I'm currently employed as a senior developer at ✨ [FundingPartner](http://fundingpartner.no/) ✨, a fintech startup at the [StartupLab](https://startuplab.no/) in Oslo, Norway.
 
-I started to doing traditional graphi design work in 2008, making logos, design guidelines and printed media for companies, events, musicians and all in between.
-My focus gradually moved towards digital media, and by 2013 I did mostly user centered digital work, and by 2015 I did frontend development work for both large state owned and private companies.
+I started working with traditional graphic design work in 2008, making logos, defining design guidelines and creating printed media for companies, events, musicians and etc.
+My focus did gradually move towards digital media, and by 2013 I had shifted my focus towards user centered digital design, and since 2015 my focus has been on making user centered design work as intended using frontend technologies. The last years I have mostly been working with larger state owned or privately owned companies.
 
 
 <!--
