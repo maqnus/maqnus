@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+### I'm a designer that turned to development, currently focused on creating user friendly, and preferably beautiful UI using frontend tools like react, sanity, express, etc. 
 
-My name is Magnus
+My name is Magnus and
 🔭 I'm currently employed as a senior developer at ✨ [FundingPartner](http://fundingpartner.no/) ✨, a fintech startup at the [StartupLab](https://startuplab.no/) in Oslo, Norway.
+
 
 Started working with traditional graphic design work in 2008, doing logo-work, defining brand guidelines and creating printed media for companies, events, musicians etc.
 My focus has gradually shifted towards digital media, and since 2015 my main focus has been creating user centered design using different frontend technologies.
