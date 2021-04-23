@@ -3,8 +3,10 @@
 My name is Magnus
 🔭 I'm currently employed as a senior developer at ✨ [FundingPartner](http://fundingpartner.no/) ✨, a fintech startup at the [StartupLab](https://startuplab.no/) in Oslo, Norway.
 
-I started working with traditional graphic design work in 2008, making logos, defining design guidelines and creating printed media for companies, events, musicians and etc.
-My focus did gradually move towards digital media, and by 2013 I had shifted my focus towards user centered digital design, and since 2015 my focus has been on making user centered design work as intended using frontend technologies. The last years I have mostly been working with larger state owned or privately owned companies.
+Started working with traditional graphic design work in 2008, doing logo-work, defining brand guidelines and creating printed media for companies, events, musicians etc.
+My focus has gradually shifted towards digital media, and since 2015 my main focus has been creating user centered design using different frontend technologies.
+
+The last years have gone to helping both state owned and privately owned companies build web-platforms using [React](https://reactjs.org/), [Angular](http://angular.io/), [Express](https://expressjs.com/), [Highcharts](highcharts.com), [ChartJs](https://www.chartjs.org/), [Plotly](https://plotly.com/javascript/), [Sanity](http://sanity.io/)
 
 
 <!--
