@@ -5,7 +5,7 @@ My name is Magnus and I am currently employed as a senior developer at ✨ [Fund
 
 
 Started working with traditional graphic design work in 2008, doing logo-work, defining brand guidelines and creating printed media for companies, events, musicians etc.
-My focus has gradually shifted towards digital media, and since 2015 my main focus has been creating user centered design using different frontend technologies.
+My focus has gradually shifted towards digital media, and since 2015 my main focus has been creating user centered design using frontend technologies.
 
 The last years have gone to helping both state owned and privately owned companies build web-platforms using [React](https://reactjs.org/), [Angular](http://angular.io/), [Express](https://expressjs.com/), [Highcharts](highcharts.com), [ChartJs](https://www.chartjs.org/), [Plotly](https://plotly.com/javascript/), [Sanity](http://sanity.io/)
 
